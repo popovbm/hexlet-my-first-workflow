@@ -1,3 +1,2 @@
-[![Actions Status](https://github.com/popovbm/hexlet-my-first-workflow
-/workflows/hello-world/badge.svg)](https://github.com/popovbm/hexlet-my-first-workflow/actions)
+![example workflow](https://github.com/popovbm/hexlet-my-first-workflow/workflows/hello-world.yml/badge.svg)
 hexlet-my-first-workflow
